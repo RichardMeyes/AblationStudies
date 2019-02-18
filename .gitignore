@@ -1,1 +1,16 @@
-# pytorch_playground
+# PyCharm project folder
+.idea/
+
+# caching files
+__pycache__
+
+# MNIST dataset
+data/processed
+data/raw
+
+# weird .exe files
+*.exe*
+
+# paper content
+paper/
+plots/
